@@ -1,6 +1,6 @@
 ---
 name: "User Story"
-description: "Template for user stories in the project"
+about: "Template for user stories in the project"
 title: "[User Story] Title Here"
 labels: ["user story"]
 assignees: []
