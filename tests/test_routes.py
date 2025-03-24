@@ -135,7 +135,6 @@ class TestAccountService(TestCase):
         data = resp.get_json()
         self.assertEqual(data["name"], account.name)
 
-
     def test_get_account_list(self):
         """It should Get a list of Accounts"""
         self._create_accounts(5)
